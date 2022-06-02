@@ -1,5 +1,5 @@
 # database_benchmark
-PostgreSQL + TimeScaleDB: Data compression test
+PostgreSQL + TimeScaleDB: Data compression test for IoT
 
 O teste a seguir foi feito para averiguar a taxa de compressão e velocidade em um banco de dados IoT otimizado para "Time-Series", utilizando PostgreSQL (v12) + TimeScaleDB (2.6.x) com a compressão automática de chunks.
 
